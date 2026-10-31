@@ -1,0 +1,13 @@
+# 数据集
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 备份 / 编辑器 / 系统
+*.bak
+.vscode/
+.DS_Store
